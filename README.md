@@ -1,0 +1,2 @@
+# discord-bots-dashboard
+Bilingual control panel for Ticket 971 and ????? ????? (971)
